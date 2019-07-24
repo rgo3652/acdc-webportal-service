@@ -1,0 +1,14 @@
+D:\acdc-webportal-service\acdc-webportal-service\bin\Debug\netcoreapp2.2\acdc-webportal-service.deps.json
+D:\acdc-webportal-service\acdc-webportal-service\bin\Debug\netcoreapp2.2\acdc-webportal-service.runtimeconfig.json
+D:\acdc-webportal-service\acdc-webportal-service\bin\Debug\netcoreapp2.2\acdc-webportal-service.runtimeconfig.dev.json
+D:\acdc-webportal-service\acdc-webportal-service\bin\Debug\netcoreapp2.2\acdc-webportal-service.dll
+D:\acdc-webportal-service\acdc-webportal-service\bin\Debug\netcoreapp2.2\acdc-webportal-service.pdb
+D:\acdc-webportal-service\acdc-webportal-service\obj\Debug\netcoreapp2.2\acdc-webportal-service.csproj.CoreCompileInputs.cache
+D:\acdc-webportal-service\acdc-webportal-service\obj\Debug\netcoreapp2.2\acdc-webportal-service.RazorAssemblyInfo.cache
+D:\acdc-webportal-service\acdc-webportal-service\obj\Debug\netcoreapp2.2\acdc-webportal-service.RazorAssemblyInfo.cs
+D:\acdc-webportal-service\acdc-webportal-service\obj\Debug\netcoreapp2.2\acdc-webportal-service.AssemblyInfoInputs.cache
+D:\acdc-webportal-service\acdc-webportal-service\obj\Debug\netcoreapp2.2\acdc-webportal-service.AssemblyInfo.cs
+D:\acdc-webportal-service\acdc-webportal-service\obj\Debug\netcoreapp2.2\acdc-webportal-service.RazorTargetAssemblyInfo.cache
+D:\acdc-webportal-service\acdc-webportal-service\obj\Debug\netcoreapp2.2\acdc-webportal-service.dll
+D:\acdc-webportal-service\acdc-webportal-service\obj\Debug\netcoreapp2.2\acdc-webportal-service.pdb
+D:\acdc-webportal-service\acdc-webportal-service\obj\Debug\netcoreapp2.2\acdc-webportal-service.csprojAssemblyReference.cache
